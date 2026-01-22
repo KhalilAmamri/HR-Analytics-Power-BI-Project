@@ -4,7 +4,17 @@
 
 HR Analytics dashboard that tracks employee attendance, work-from-home trends, and sick leave patterns. Built with Power BI for real-time workforce monitoring.
 
+### Dashboard Preview
+
 ![Presence Insights Dashboard](Images/Overview%20presense.png)
+
+### 📹 Dashboard Demo Video
+
+https://github.com/user-attachments/assets/dashboard-demo.mp4
+
+[📥 Download Demo Video](video/powerbi_dashboard_demo.mp4)
+
+_Watch the interactive demo showing dashboard filters and features in action._
 
 ## Key Metrics
 
