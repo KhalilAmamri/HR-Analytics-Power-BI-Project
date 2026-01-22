@@ -10,9 +10,7 @@ HR Analytics dashboard that tracks employee attendance, work-from-home trends, a
 
 ### 📹 Dashboard Demo Video
 
-https://github.com/user-attachments/assets/dashboard-demo.mp4
-
-[📥 Download Demo Video](video/powerbi_dashboard_demo.mp4)
+![Dashboard Demo Video](video/powerbi_dashboard_demo.mp4)
 
 _Watch the interactive demo showing dashboard filters and features in action._
 
